@@ -4,6 +4,8 @@
 |---:|---|---|---|---|---|---|---|---|---|
 | 217 | Contains Duplicate | HashSet | Easy | 27.07.2026 | Accepted | Самостоятельно | O(n) | O(n) | 30.07.2026 |
 | 1 | Two Sum | HashMap | Easy | 27.07.2026 | Accepted | С небольшой подсказкой | O(n) | O(n) | 31.07.2026 |
+| 242 | Valid Anagram | Frequency Counting | Easy | 28.07.2026 | Accepted | С небольшой подсказкой | O(n) | O(1) | 01.08.2026 |
+| 49 | Group Anagrams | HashMap Grouping | Medium | 28.07.2026 | Accepted | С подсказкой по выбору ключа | O(n * k log k) | O(n * k) | 02.08.2026 |
 
 ## Обозначения самостоятельности
 
