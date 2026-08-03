@@ -7,6 +7,7 @@
 | 242 | Valid Anagram | Frequency Counting | Easy | 28.07.2026 | Accepted | С небольшой подсказкой | O(n) | O(1) | 01.08.2026 |
 | 49 | Group Anagrams | HashMap Grouping | Medium | 28.07.2026 | Accepted | С подсказкой по выбору ключа | O(n * k log k) | O(n * k) | 02.08.2026 |
 | 125 | Valid Palindrome | Two Pointers | Easy | 30.07.2026 | Accepted | Самостоятельно, оптимизация после разбора | O(n) | O(1) | 04.08.2026 |
+| 167 | Two Sum II | Two Pointers | Medium | 03.08.2026 | Accepted | Самостоятельно | O(n) | O(1) | 07.08.2026 |
 
 ## Обозначения самостоятельности
 
