@@ -8,6 +8,7 @@
 | 49 | Group Anagrams | HashMap Grouping | Medium | 28.07.2026 | Accepted | С подсказкой по выбору ключа | O(n * k log k) | O(n * k) | 02.08.2026 |
 | 125 | Valid Palindrome | Two Pointers | Easy | 30.07.2026 | Accepted | Самостоятельно, оптимизация после разбора | O(n) | O(1) | 04.08.2026 |
 | 167 | Two Sum II | Two Pointers | Medium | 03.08.2026 | Accepted | Самостоятельно | O(n) | O(1) | 07.08.2026 |
+| 15 | 3Sum | Sorting, Two Pointers | Medium | 04.08.2026 | Accepted | С подсказками по дубликатам и границам | O(n²) | O(1) | 08.08.2026 |
 
 ## Обозначения самостоятельности
 
