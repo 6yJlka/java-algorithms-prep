@@ -691,33 +691,6 @@ O(n log n)
 
 ---
 
-# Задачи для изучения
-
-## Базовый уровень
-
-- LeetCode 125 — Valid Palindrome
-- LeetCode 167 — Two Sum II
-- LeetCode 344 — Reverse String
-- LeetCode 977 — Squares of a Sorted Array
-- LeetCode 283 — Move Zeroes
-- LeetCode 26 — Remove Duplicates from Sorted Array
-
-## Средний уровень
-
-- LeetCode 15 — 3Sum
-- LeetCode 11 — Container With Most Water
-- LeetCode 75 — Sort Colors
-- LeetCode 80 — Remove Duplicates from Sorted Array II
-
-## Связные списки
-
-- LeetCode 876 — Middle of the Linked List
-- LeetCode 141 — Linked List Cycle
-- LeetCode 142 — Linked List Cycle II
-- LeetCode 19 — Remove Nth Node From End of List
-
----
-
 # Вопросы для самопроверки
 
 1. Что представляет собой паттерн Two Pointers?

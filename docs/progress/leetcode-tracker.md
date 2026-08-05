@@ -1,7 +1,7 @@
 # LeetCode Progress Tracker
 
-| № | Задача | Паттерн | Уровень | Дата | Результат | Самостоятельность | Время | Память | Повторить |
-|---:|---|---|---|---|---|---|---|---|---|
+| № | Задача | Паттерн | Уровень | Дата | Результат | Самостоятельность | Время | Память | Повторить  |
+|---:|---|---|---|---|---|---|---|---|------------|
 | 217 | Contains Duplicate | HashSet | Easy | 27.07.2026 | Accepted | Самостоятельно | O(n) | O(n) | 30.07.2026 |
 | 1 | Two Sum | HashMap | Easy | 27.07.2026 | Accepted | С небольшой подсказкой | O(n) | O(n) | 31.07.2026 |
 | 242 | Valid Anagram | Frequency Counting | Easy | 28.07.2026 | Accepted | С небольшой подсказкой | O(n) | O(1) | 01.08.2026 |
@@ -9,6 +9,8 @@
 | 125 | Valid Palindrome | Two Pointers | Easy | 30.07.2026 | Accepted | Самостоятельно, оптимизация после разбора | O(n) | O(1) | 04.08.2026 |
 | 167 | Two Sum II | Two Pointers | Medium | 03.08.2026 | Accepted | Самостоятельно | O(n) | O(1) | 07.08.2026 |
 | 15 | 3Sum | Sorting, Two Pointers | Medium | 04.08.2026 | Accepted | С подсказками по дубликатам и границам | O(n²) | O(1) | 08.08.2026 |
+| 643 | Maximum Average Subarray I | Sliding Window | Easy | 05.08.2026 | Accepted | Самостоятельно после изучения паттерна | O(n) | O(1) | 09.08.2026 |
+| 3 | Longest Substring Without Repeating Characters | Sliding Window, HashSet | Medium | 05.08.2026 | Accepted | С подсказкой по удалению левого символа и сохранению максимума | O(n) | O(min(n, alphabet)) | 09.08.2026 |
 
 ## Обозначения самостоятельности
 
