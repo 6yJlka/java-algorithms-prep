@@ -1,4 +1,4 @@
-package ru.donskikh.algorithms.leetcode.p0003longestsubstringwithoutrepeatingcharacters;
+package ru.donskikh.algorithms.leetcode.slidingwindow.p0003longestsubstringwithoutrepeatingcharacters;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package ru.donskikh.algorithms.leetcode.p0015threesum;
+package ru.donskikh.algorithms.leetcode.twopointers.p0015threesum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

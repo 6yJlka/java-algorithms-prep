@@ -1,4 +1,4 @@
-package ru.donskikh.algorithms.leetcode.p0167twosumii;
+package ru.donskikh.algorithms.leetcode.twopointers.p0167twosumii;
 
 class Solution {
     public int[] twoSum(int[] numbers, int target) {

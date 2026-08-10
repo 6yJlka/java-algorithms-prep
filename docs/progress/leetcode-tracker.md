@@ -11,6 +11,8 @@
 | 15 | 3Sum | Sorting, Two Pointers | Medium | 04.08.2026 | Accepted | С подсказками по дубликатам и границам | O(n²) | O(1) | 08.08.2026 |
 | 643 | Maximum Average Subarray I | Sliding Window | Easy | 05.08.2026 | Accepted | Самостоятельно после изучения паттерна | O(n) | O(1) | 09.08.2026 |
 | 3 | Longest Substring Without Repeating Characters | Sliding Window, HashSet | Medium | 05.08.2026 | Accepted | С подсказкой по удалению левого символа и сохранению максимума | O(n) | O(min(n, alphabet)) | 09.08.2026 |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | Sliding Window | Medium | 10.08.2026 | Accepted | Самостоятельно, исправлена проверка indexOf: >= 0 | O(n) | O(1) | |
+| 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Sliding Window | Medium | 10.08.2026 | Accepted | Самостоятельно, исправлено условие == на >= | O(n) | O(1) | |
 
 ## Обозначения самостоятельности
 

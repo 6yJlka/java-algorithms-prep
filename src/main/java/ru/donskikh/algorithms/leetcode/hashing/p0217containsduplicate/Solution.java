@@ -1,4 +1,4 @@
-package ru.donskikh.algorithms.leetcode.p0217containsduplicate;
+package ru.donskikh.algorithms.leetcode.hashing.p0217containsduplicate;
 
 import java.util.HashSet;
 import java.util.Set;

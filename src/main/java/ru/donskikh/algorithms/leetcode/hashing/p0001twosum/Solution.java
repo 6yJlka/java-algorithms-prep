@@ -1,4 +1,4 @@
-package ru.donskikh.algorithms.leetcode.p0001twosum;
+package ru.donskikh.algorithms.leetcode.hashing.p0001twosum;
 
 import java.util.HashMap;
 import java.util.Map;

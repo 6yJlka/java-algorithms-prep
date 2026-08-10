@@ -1,4 +1,4 @@
-package ru.donskikh.algorithms.leetcode.p0242validanagram;
+package ru.donskikh.algorithms.leetcode.hashing.p0242validanagram;
 
 import java.util.Arrays;
 

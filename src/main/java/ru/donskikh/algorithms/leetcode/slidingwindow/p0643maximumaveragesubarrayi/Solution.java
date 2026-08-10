@@ -1,4 +1,4 @@
-package ru.donskikh.algorithms.leetcode.p0643maximumaveragesubarrayi;
+package ru.donskikh.algorithms.leetcode.slidingwindow.p0643maximumaveragesubarrayi;
 
 class Solution {
     public double findMaxAverage(int[] nums, int k) {

@@ -1,4 +1,4 @@
-package ru.donskikh.algorithms.leetcode.p0049groupanagrams;
+package ru.donskikh.algorithms.leetcode.hashing.p0049groupanagrams;
 
 import java.util.ArrayList;
 import java.util.Arrays;

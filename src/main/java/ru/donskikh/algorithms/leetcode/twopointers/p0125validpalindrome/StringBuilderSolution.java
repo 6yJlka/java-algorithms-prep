@@ -1,4 +1,4 @@
-package ru.donskikh.algorithms.leetcode.p0125validpalindrome;
+package ru.donskikh.algorithms.leetcode.twopointers.p0125validpalindrome;
 
 /*Время: O(n)
 Дополнительная память: O(n)*/
