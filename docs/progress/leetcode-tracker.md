@@ -13,6 +13,8 @@
 | 3 | Longest Substring Without Repeating Characters | Sliding Window, HashSet | Medium | 05.08.2026 | Accepted | С подсказкой по удалению левого символа и сохранению максимума | O(n) | O(min(n, alphabet)) | 09.08.2026 |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Sliding Window | Medium | 10.08.2026 | Accepted | Самостоятельно, исправлена проверка indexOf: >= 0 | O(n) | O(1) | |
 | 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Sliding Window | Medium | 10.08.2026 | Accepted | Самостоятельно, исправлено условие == на >= | O(n) | O(1) | |
+| 209 | Minimum Size Subarray Sum | Sliding Window | Medium | 12.08.2026 | Accepted | С подсказками по порядку расширения/сжатия окна и обработке первого элемента | O(n) | O(1) | |
+| 1004 | Max Consecutive Ones III | Sliding Window | Medium | 12.08.2026 | Accepted | Самостоятельно, исправлен порядок сжатия окна и обновления максимума | O(n) | O(1) | |
 
 ## Обозначения самостоятельности
 
