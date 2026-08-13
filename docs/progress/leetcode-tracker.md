@@ -15,6 +15,9 @@
 | 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Sliding Window | Medium | 10.08.2026 | Accepted | Самостоятельно, исправлено условие == на >= | O(n) | O(1) | |
 | 209 | Minimum Size Subarray Sum | Sliding Window | Medium | 12.08.2026 | Accepted | С подсказками по порядку расширения/сжатия окна и обработке первого элемента | O(n) | O(1) | |
 | 1004 | Max Consecutive Ones III | Sliding Window | Medium | 12.08.2026 | Accepted | Самостоятельно, исправлен порядок сжатия окна и обновления максимума | O(n) | O(1) | |
+| 904 | Fruit Into Baskets | Sliding Window, HashMap | Medium | 13.08.2026 | Accepted | С небольшой подсказкой | O(n) | O(1) | |
+| 424 | Longest Repeating Character Replacement | Sliding Window, Frequency Counting | Medium | 13.08.2026 | Accepted | С подсказками по условию валидности окна и maxFreq | O(n) | O(1) | |
+| 567 | Permutation in String | Sliding Window, Frequency Counting | Medium | 13.08.2026 | Accepted | С подсказкой по фиксированному окну и сравнению частот | O(n) | O(1) | |
 
 ## Обозначения самостоятельности
 
