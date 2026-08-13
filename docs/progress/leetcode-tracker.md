@@ -18,6 +18,7 @@
 | 904 | Fruit Into Baskets | Sliding Window, HashMap | Medium | 13.08.2026 | Accepted | С небольшой подсказкой | O(n) | O(1) | |
 | 424 | Longest Repeating Character Replacement | Sliding Window, Frequency Counting | Medium | 13.08.2026 | Accepted | С подсказками по условию валидности окна и maxFreq | O(n) | O(1) | |
 | 567 | Permutation in String | Sliding Window, Frequency Counting | Medium | 13.08.2026 | Accepted | С подсказкой по фиксированному окну и сравнению частот | O(n) | O(1) | |
+| 438 | Find All Anagrams in a String | Sliding Window, Frequency Counting | Medium | 13.08.2026 | Accepted | Самостоятельно | O(n) | O(1) | |
 
 ## Обозначения самостоятельности
 
