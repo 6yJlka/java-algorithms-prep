@@ -19,6 +19,9 @@
 | 424 | Longest Repeating Character Replacement | Sliding Window, Frequency Counting | Medium | 13.08.2026 | Accepted | С подсказками по условию валидности окна и maxFreq | O(n) | O(1) | |
 | 567 | Permutation in String | Sliding Window, Frequency Counting | Medium | 13.08.2026 | Accepted | С подсказкой по фиксированному окну и сравнению частот | O(n) | O(1) | |
 | 438 | Find All Anagrams in a String | Sliding Window, Frequency Counting | Medium | 13.08.2026 | Accepted | Самостоятельно | O(n) | O(1) | |
+| 1480 | Running Sum of 1d Array | Prefix Sum | Easy | 15.08.2026 | Accepted | Самостоятельно | O(n) | O(n) | |
+| 303 | Range Sum Query - Immutable | Prefix Sum | Easy | 15.08.2026 | Accepted | Самостоятельно | O(n) preprocessing, O(1) query | O(n) | |
+| 560 | Subarray Sum Equals K | Prefix Sum, HashMap | Medium | 15.08.2026 | Accepted | С подсказками по HashMap и частотам prefix sum | O(n) | O(n) | |
 
 ## Обозначения самостоятельности
 
