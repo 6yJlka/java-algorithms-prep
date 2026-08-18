@@ -24,6 +24,7 @@
 | 560 | Subarray Sum Equals K | Prefix Sum, HashMap | Medium | 15.08.2026 | Accepted | С подсказками по HashMap и частотам prefix sum | O(n) | O(n) | |
 | 724 | Find Pivot Index | Prefix Sum | Easy | 17.08.2026 | Accepted | С небольшой подсказкой по формуле rightSum | O(n) | O(n) | |
 | 525 | Contiguous Array | Prefix Sum, HashMap | Medium | 17.08.2026 | Accepted | С подсказками по идее balance | O(n) | O(n) | |
+| 20 | Valid Parentheses | Stack | Easy | 18.08.2026 | Accepted | Самостоятельно, исправлен выбор метода Deque | O(n) | O(n) | |
 
 ## Обозначения самостоятельности
 
